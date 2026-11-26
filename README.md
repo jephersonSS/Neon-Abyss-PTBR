@@ -1,11 +1,5 @@
 # 🇧🇷 Neon Abyss — Tradução PT-BR
 
-![Versão](https://img.shields.io/badge/Versão-1.0.4-brightgreen)
-![Plataforma](https://img.shields.io/badge/Plataforma-Windows-blue)
-![Steam](https://img.shields.io/badge/Steam-1.5.3.2-181717)
-![Idioma](https://img.shields.io/badge/Idioma-PT--BR-yellow)
-![Preço](https://img.shields.io/badge/Tradução-Gratuita-success)
-
 ## 📖 Sobre o projeto
 
 Este projeto oferece uma tradução não oficial de Neon Abyss para português brasileiro, desenvolvida por um fã para a comunidade brasileira.
