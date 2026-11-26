@@ -1,7 +1,8 @@
 # 🇧🇷 Neon Abyss — Tradução PT-BR
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/956656c4-19cb-48ba-9acb-9b891416f356" />
-
+<p align="center">
+  <img width="400" alt="Neon Abyss PT-BR" src="https://github.com/user-attachments/assets/956656c4-19cb-48ba-9acb-9b891416f356" />
+</p>
 
 ## 📖 Sobre o projeto
 
