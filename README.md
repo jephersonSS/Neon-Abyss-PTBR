@@ -6,22 +6,26 @@
 
 ## 📖 Sobre o projeto
 
-Este projeto oferece uma tradução não oficial de Neon Abyss para português brasileiro, desenvolvida por um fã para a comunidade brasileira.
+Tradução gratuita e não oficial de Neon Abyss para português brasileiro, desenvolvida com auxílio de inteligência artificial, revisada e testada diretamente no jogo.
 
-A tradução foi desenvolvida com auxílio de inteligência artificial, passando por diversas etapas de revisão, correção e testes dentro do jogo, buscando uma localização natural, intuitiva e fiel à experiência original.
+O projeto busca oferecer uma localização natural, intuitiva e fiel à experiência original.
 
 ## 📥 Download
 
-### [⬇️ BAIXAR TRADUÇÃO PT-BR](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/latest)
+| Arquivo | Descrição |
+|---|---|
+| [**Instalador automático (.exe)**](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/download/v1.0.4/Neon_Abyss_PTBR_Instalador_1.0.4.exe) | Recomendado — instalação e desinstalação automáticas. |
+| [**Instalação manual (.rar)**](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/download/v1.0.4/Neon_Abyss_PTBR.-.Instalacao.manual.rar) | Para quem prefere instalar manualmente. |
+| [**Código-fonte (.zip)**](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/download/v1.0.4/Neon_Abyss_PTBR_Instalador_1.0.4_Fonte.zip) | Código-fonte do instalador para consulta. |
 
-A tradução é totalmente gratuita e possui um instalador gráfico personalizado, que facilita todo o processo de instalação e desinstalação.
+[Consultar todas as versões disponíveis](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases)
 
 ## 🎮 Conteúdo traduzido
 
 - Menus, configurações e interface.
 - Armas, itens e equipamentos.
-- Habilidades e características dos personagens.
-- Mascotes e suas evoluções.
+- Personagens e habilidades.
+- Mascotes e evoluções.
 - Chefes e inimigos.
 - Diálogos e interações.
 - Cartas de história e curiosidades.
@@ -33,35 +37,51 @@ A tradução é totalmente gratuita e possui um instalador gráfico personalizad
 ## ✨ Diferenciais
 
 - Mais de 2.400 entradas de localização traduzidas.
-- Português brasileiro como idioma independente.
+- Português (BR) como idioma independente.
 - Preservação dos dez idiomas originais.
-- Possibilidade de alternar entre idiomas normalmente.
-- Ajustes automáticos para títulos extensos.
+- Ajuste automático de títulos extensos.
 - Elementos gráficos personalizados.
-- Instalador com identidade visual brasileira.
-- Funcionamento offline, sem tradutores externos.
-- Preservação do progresso do jogador.
+- Instalador com temática brasileira.
+- Funcionamento totalmente offline.
+- Preservação dos saves.
 
-## 🛠️ Instalação
+## 🛠️ Instalação automática (.exe)
 
-1. Baixe o executável na seção [Releases](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases).
-2. Feche o Neon Abyss, caso esteja aberto.
-3. Execute o instalador da tradução.
-4. Confirme a pasta do jogo ou selecione-a manualmente.
-5. Prossiga com a instalação.
-6. Abra o jogo.
-7. Acesse **Options > Gameplay > Language**.
-8. Selecione **Português (BR)** e aplique as alterações.
+**Método recomendado.**
 
-Pronto! Aproveite o Neon Abyss em português brasileiro.
+1. Feche o jogo.
+2. Baixe e execute o instalador.
+3. Confirme a pasta detectada automaticamente ou selecione-a manualmente.
+4. Prossiga até concluir a instalação.
+5. Abra o jogo.
+6. Acesse **Options > Gameplay > Language**.
+7. Selecione **Português (BR)** e aplique as alterações.
+
+O instalador verifica a compatibilidade dos arquivos e realiza backups automaticamente.
+
+## 📂 Instalação manual (.rar)
+
+1. Feche o jogo.
+2. Na Steam, clique com o botão direito sobre Neon Abyss.
+3. Selecione **Gerenciar > Explorar arquivos locais**.
+4. Faça backup dos três arquivos que serão substituídos.
+5. Extraia o arquivo da tradução na pasta do jogo, preservando a estrutura das pastas.
+6. Aceite a substituição dos arquivos.
+7. Abra o jogo e selecione **Português (BR)** nas configurações.
+
+### Arquivos modificados
+
+- `NeonAbyss_Data/globalgamemanagers.assets`
+- `NeonAbyss_Data/globalgamemanagers.assets.resS`
+- `NeonAbyss_Data/Managed/Assembly-CSharp.dll`
 
 ## 🗑️ Desinstalação
 
-1. Execute novamente o instalador.
-2. Selecione a opção de desinstalação.
-3. Confirme a pasta do jogo.
-4. Aguarde a restauração dos arquivos originais.
-5. Escolha se deseja manter ou excluir o backup.
+**Instalação automática:** execute novamente o instalador, selecione a opção de desinstalação e siga as instruções. Ao concluir, escolha se deseja manter ou excluir o backup.
+
+**Instalação manual:** restaure os arquivos originais utilizando seu backup.
+
+Também é possível restaurar os arquivos originais pela Steam em **Propriedades > Arquivos instalados > Verificar integridade dos arquivos**.
 
 ## 💻 Compatibilidade
 
@@ -77,29 +97,27 @@ Pronto! Aproveite o Neon Abyss em português brasileiro.
 
 Outras versões e plataformas não foram testadas.
 
+Caso o jogo receba uma atualização, verifique a compatibilidade da tradução antes de reinstalá-la.
+
 ## 🔒 Segurança e transparência
 
-O instalador verifica a integridade e a compatibilidade dos arquivos utilizando SHA-256, realiza backups e permite restaurar os arquivos originais.
+O instalador automático utiliza patches, verificações SHA-256 e backups dos arquivos originais.
 
-A instalação utiliza patches, evitando a necessidade de distribuir arquivos completos do jogo.
+Seu código-fonte está disponível publicamente para consulta.
 
-O código-fonte do instalador está disponível na seção Releases para consulta.
-
-**Aviso:** como o instalador não possui assinatura digital, o Windows SmartScreen poderá apresentar um alerta.
+O executável não possui assinatura digital, portanto o Windows SmartScreen poderá apresentar um aviso. Caso prefira não executar o instalador, utilize a instalação manual.
 
 ## 🐛 Problemas e sugestões
 
-Encontrou algum texto em inglês, erro de tradução, problema de interface ou dificuldade na instalação?
+Encontrou algum texto em inglês, erro de tradução ou problema de instalação?
 
-Abra uma solicitação na seção [Issues](https://github.com/jephersonSS/Neon-Abyss-PTBR/issues), preferencialmente acompanhada de uma captura de tela e uma descrição do problema.
+Abra uma [Issue](https://github.com/jephersonSS/Neon-Abyss-PTBR/issues), preferencialmente acompanhada de uma captura de tela e uma descrição do problema.
 
 ## ⚖️ Aviso legal
 
 Este é um projeto independente, gratuito e sem fins lucrativos, desenvolvido por um fã.
 
-Não possui vínculo oficial com a Veewo Games ou a Team17.
-
-Todos os direitos sobre Neon Abyss, seus personagens, marcas e elementos visuais pertencem aos respectivos proprietários.
+Não possui vínculo oficial com a Veewo Games ou a Team17. Todos os direitos sobre o jogo, seus personagens, marcas e elementos visuais pertencem aos respectivos proprietários.
 
 A tradução não inclui o jogo base.
 
