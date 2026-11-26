@@ -1,5 +1,8 @@
 # 🇧🇷 Neon Abyss — Tradução PT-BR
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/956656c4-19cb-48ba-9acb-9b891416f356" />
+
+
 ## 📖 Sobre o projeto
 
 Este projeto oferece uma tradução não oficial de Neon Abyss para português brasileiro, desenvolvida por um fã para a comunidade brasileira.
